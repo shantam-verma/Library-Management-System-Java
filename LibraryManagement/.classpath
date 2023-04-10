@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/Copy of mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shantam/Desktop/java/libraryManagement/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shantam/Desktop/java/libraryManagement/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shantam/Desktop/java/libraryManagement/jcalendar-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
